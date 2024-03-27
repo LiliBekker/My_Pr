@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<letters>
+  <letter sound = "Б">
+    <Numder>1</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "В">
+    <Numder>2</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Г">
+    <Numder>3</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Д">
+    <Numder>4</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Ж">
+    <Numder>5</Numder>
+    <hardsound>True</hardsound>
+    <softsound></softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "З">
+    <Numder>6</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Л">
+    <Numder>7</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "М">
+    <Numder>8</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Н">
+    <Numder>9</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Р">
+    <Numder>10</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "К">
+    <Numder>11</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "П">
+    <Numder>12</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "С">
+    <Numder>13</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Т">
+    <Numder>14</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Ф">
+    <Numder>15</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Х">
+    <Numder>16</Numder>
+    <hardsound>True</hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Ц">
+    <Numder>17</Numder>
+    <hardsound>True</hardsound>
+    <softsound></softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Ш">
+    <Numder>18</Numder>
+    <hardsound>True</hardsound>
+    <softsound></softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Й">
+    <Numder>19</Numder>
+    <hardsound></hardsound>
+    <softsound>True</softsound>
+    <Sonority>True</Sonority>
+  </letter>
+  <letter sound = "Ч">
+    <Numder>20</Numder>
+    <hardsound></hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+  <letter sound = "Щ">
+    <Numder>21</Numder>
+    <hardsound></hardsound>
+    <softsound>True</softsound>
+    <Sonority>False</Sonority>
+  </letter>
+</letters>
