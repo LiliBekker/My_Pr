@@ -1,0 +1,158 @@
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+D:\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+D:\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+D:\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+D:\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\Admin\Desktop\Практика 3 курс\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Проект\VoicedAndDeafConsonants\bin\Debug\XMLHardSound.xml
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\bin\Debug\XMLHardSound.xml
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Downloads\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\bin\Debug\XMLHardSound.xml
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GoodJob.resources
+C:\Users\Admin\Desktop\Проект\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Form2.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Form2.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GoodJob.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\ALEKSEY\Desktop\учёба\3 курс\Весенний семестр\1 ПРАКТИКА\Аминь\VoicedAndDeafConsonants\bin\Debug\XMLSounds.xml
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\bin\Debug\XMLSounds.xml
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Form2.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GoodJob.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\Admin\Desktop\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\bin\Debug\XMLSounds.xml
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe.config
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.exe
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\bin\Debug\VoicedAndDeafConsonants.pdb
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.AssemblyReference.cache
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.g.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Exit.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Form2.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GoodJob.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.MainMenu.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameType.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.GameTheme.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Guide.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Properties.Resources.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Game.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Theory.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.Levels.resources
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.GenerateResource.cache
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.csproj.CoreCompileInputs.cache
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.exe
+C:\Users\lilib\YandexDisk\Институт\3 курс\3 курс\6 семестр\Практика 3 курс\Аминь\VoicedAndDeafConsonants\obj\Debug\VoicedAndDeafConsonants.pdb
